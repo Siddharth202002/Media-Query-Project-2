@@ -1,0 +1,1 @@
+In this project i am creaitng the responsive static web page
